@@ -1,4 +1,4 @@
-// Source is written in 0.4 solidity. So only use verson compatible compilers.
+// Source is written in 0.4 solidity. So only use version compatible compilers.
 pragma solidity ^0.4.0;
 
 // Contract is a collection of code and data, that has an address on the Ethereum blockchain.
