@@ -7,4 +7,7 @@
  - https://www.youtube.com/watch?v=Q5oHv61kD20
 
 #### Tools
-https://remix.ethereum.org/
+ - Remix: https://remix.ethereum.org/
+ - Ropsten testnet faucet: http://faucet.ropsten.be:3001/
+ - Metamask: https://metamask.io/
+ - MEW: https://www.myetherwallet.com/
